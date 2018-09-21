@@ -1,0 +1,35 @@
+{
+  "name": "dotnetcore-webpack-typescript-buildtool",
+  "version": "1.0.0",
+  "main": "index.js",
+  "maintainers": [
+    "psvensso"
+  ],
+  "repository": "https://github.com/Psvensso/dotnetcore-webpack-typescript-buildtool" ,
+  "description": "Webpack build tool for TypeScript and DotNet Core",
+  "dependencies": {
+    "aspnet-webpack": "3.0.0",
+    "aspnet-webpack-react": "3.0.0",
+    "react-hot-loader": "4.1.2",
+    "webpack-dev-middleware": "3.1.3",
+    "webpack-hot-middleware": "2.22.2",
+    "async": "^2.5.0",
+    "event-source-polyfill": "0.0.9",
+    "awesome-typescript-loader": "3.3.0",
+    "css-loader": "0.28.7",
+    "fast-sass-loader": "^1.4.5",
+    "fork-ts-checker-webpack-plugin": "0.4.1",
+    "ignore-loader": "^0.1.2",
+    "node-sass": "4.9.0",
+    "react": "^16.1.1",
+    "style-loader": "0.19.1",
+    "ts-loader": "4.3.0",
+    "typescript": "2.6.1",
+    "url-loader": "^0.6.2",
+    "tsconfig-paths-webpack-plugin": "^3.1.3",
+    "file-loader": "1.1.11",
+    "url-search-params-polyfill": "^2.0.1",
+    "webpack": "4.8.3",
+    "whatwg-fetch": "^2.0.3"
+  }
+}

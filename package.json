@@ -1,6 +1,6 @@
 {
   "name": "dotnetcore-webpack-typescript-buildtool",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "maintainers": [
     "psvensso"

@@ -5,7 +5,7 @@
   "maintainers": [
     "psvensso"
   ],
-  "repository": "https://github.com/Psvensso/dotnetcore-webpack-typescript-buildtool" ,
+  "repository": "https://github.com/Psvensso/dotnetcore-webpack-typescript-buildtool",
   "description": "Webpack build tool for TypeScript and DotNet Core",
   "dependencies": {
     "aspnet-webpack": "3.0.0",
